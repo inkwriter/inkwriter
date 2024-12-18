@@ -1,13 +1,11 @@
 # Hi, I'm Jake! 👋
 
-![Inkwriter's Stats](https://github-readme-stats.vercel.app/api?username=inkwriter&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🕵🏻‍♂️ About Me
 
 - 🔭 I'm currently in the May 2024 cohort of Code:You. Dabbling in cybersecurity on the side 🌃
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css.js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -25,7 +23,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/Inkwriter77)
+- Connect with me on [Email](jacobbsexton@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
