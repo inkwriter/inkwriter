@@ -5,7 +5,7 @@
 - 🔭 I'm currently in the May 2024 cohort of Code:You. Dabbling in cybersecurity on the side 🌃
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
