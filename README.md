@@ -2,7 +2,7 @@
 
 ## 🕵🏻‍♂️ About Me
 
-- 🔭 I'm currently in the May 2024 cohort of Code:You. Dabbling in cybersecurity on the side 🌃
+- 🔭 I currently working on learning more JavaScript by creating an indie game called Bandit's Bane. 🌃
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
